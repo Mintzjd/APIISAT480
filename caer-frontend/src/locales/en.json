@@ -1,0 +1,19 @@
+{
+  "pages": {
+    "welcome": {
+      "message": "Welcome to the"
+    },
+    "main-menu": {
+      "get-started": "Get Started",
+      "session-id": "Session ID",
+      "create-new-topic": "Create new topic",
+      "view-scenarios": "View Scenarios",
+      "sign-out": "Sign out"
+    },
+    "participant-introduction": {
+      "intro": "You have been asked to conduct a scenario analysis to examine plausible future trajectories related to {0}. As an expert in this domain, you have a keen understanding of the relevant stakeholders and drivers-- trends, events, social/technological/political/legal factors likely to shape the model. For this exercise, you are considering a trajectory over the next {1}, meaning from now to {1} from now.",
+      "start": "Start"
+    }
+  },
+  "login": "Login"
+}
